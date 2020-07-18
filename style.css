@@ -1,0 +1,58 @@
+body {
+    background-color: #27496d ;
+    margin: 0px;
+  }
+  .header{
+    background-color: white;
+    color: white;
+    text-align: center;
+  }
+  .title-row{
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+  }
+.instructions-title{
+    display: inline;
+    font-size: 18px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.instructions-row{
+margin: 0 auto;
+width: 400px;
+}
+.instructions-number{
+padding-right: 25px;
+font-family: 'Ubuntu', sans-serif;
+font-size: 36px;
+color: white;
+}
+.instructions-text{
+padding: 10px;
+font-family: 'Ubuntu', sans-serif;
+font-size: 14px;
+color: white;
+}
+#door-row{
+text-align: center;
+}
+.start-row{
+margin: auto;
+width: 230px;
+height: 40px;
+font-family: 'Ubuntu', sans-serif;
+background-color: #fc6b3f;
+padding-top: 18px;
+font-size: 18px;
+text-align: center;
+color: #363636;
+margin-bottom: 21px;
+cursor: pointer;
+border-radius: 25px;
+}
+.door-frame{
+cursor: pointer;
+padding: 10px;
+}
+  
