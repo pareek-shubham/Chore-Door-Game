@@ -13,7 +13,7 @@ body {
     text-align: center;
   }
 .instructions-title{
-    display: inline;
+display: inline;
     font-size: 18px;
     color: white;
     font-family: 'Ubuntu', sans-serif;
@@ -38,18 +38,13 @@ color: white;
 text-align: center;
 }
 .start-row{
-margin: auto;
 width: 230px;
 height: 40px;
 font-family: 'Ubuntu', sans-serif;
-background-color: #fc6b3f;
-padding-top: 18px;
+margin-left: 815px;
+margin-top: 25px;;
 font-size: 18px;
-text-align: center;
-color: #363636;
-margin-bottom: 21px;
 cursor: pointer;
-border-radius: 25px;
 }
 .door-frame{
 cursor: pointer;
